@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17465" started-at="2018-03-15T11:35:36Z" finished-at="2018-03-15T11:35:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17465" started-at="2018-03-15T11:35:36Z" finished-at="2018-03-15T11:35:53Z">
+      <class name="slateandtell.bar.regression.bar_regression">
+        <test-method status="PASS" signature="init_elements()[pri:0, instance:slateandtell.bar.regression.bar_regression@6e8dacdf]" name="init_elements" is-config="true" duration-ms="4558" started-at="2018-03-15T17:05:36Z" finished-at="2018-03-15T17:05:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_elements -->
+        <test-method status="PASS" signature="bar_module()[pri:0, instance:slateandtell.bar.regression.bar_regression@6e8dacdf]" name="bar_module" duration-ms="12896" started-at="2018-03-15T17:05:40Z" finished-at="2018-03-15T17:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bar_module -->
+      </class> <!-- slateandtell.bar.regression.bar_regression -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
